@@ -1,5 +1,7 @@
 # docker debian rbenv nodenv pyenv
 
+Image: https://hub.docker.com/repository/docker/amkisko/debian-rbenv-nodenv-pyenv
+
 Example node app with yarn setup:
 ```docker
 FROM amkisko/debian-rbenv-nodenv-pyenv as development
